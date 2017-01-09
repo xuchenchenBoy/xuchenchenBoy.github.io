@@ -217,7 +217,7 @@ auto_excerpt:
 wechat_subscriber:
   enabled: true
   qcode: /images/wechat-qcode.jpg
-  description: 我的微信号
+  description: 微信号
 
 
 
