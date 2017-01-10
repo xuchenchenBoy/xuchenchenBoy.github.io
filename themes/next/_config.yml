@@ -27,7 +27,7 @@ rss:
 menu:
   home: /
   
-  about: /about/
+  #about: /about/
   archives: /archives/
   #tags: https://xuchenchenboy.github.io/tags/
   categories: /categories/
@@ -43,7 +43,7 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
+  #about: user
   categories: th
   #tags: tags
   archives: archive
@@ -215,7 +215,7 @@ auto_excerpt:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /images/wechat-qcode.jpg
   description: 微信号
 
