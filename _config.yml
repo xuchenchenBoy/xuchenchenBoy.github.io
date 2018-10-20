@@ -74,4 +74,4 @@ deploy:
   branch: master #分支，这里为github-pages
 
 #duoshuo
-duoshuo_shortname: xuchenchenboy
+# duoshuo_shortname: xuchenchenboy
