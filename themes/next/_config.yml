@@ -239,7 +239,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: xuchenchenboy
+# duoshuo_shortname: xuchenchenboy
 
 # Disqus
 #disqus_shortname:
@@ -273,7 +273,7 @@ duoshuo_shortname: xuchenchenboy
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
@@ -292,9 +292,9 @@ facebook_sdk:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: hgg8nHArgCPMO6QIFUAjUz5X-gzGzoHsz
+  app_key: JdlNS2i0fq7yRAIlYXqflYbu
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
